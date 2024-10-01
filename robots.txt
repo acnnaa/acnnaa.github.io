@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acnnaa.github.io/qDi/sitemap.qDi.gz
